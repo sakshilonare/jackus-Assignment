@@ -1,0 +1,84 @@
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .add-btn {
+    background-color: #28a745;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .user-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .user-table th, .user-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .user-table th {
+    background-color: #f4f4f4;
+  }
+  
+  .edit-btn {
+    background-color: #ff9800;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+
+  .delete-btn {
+    background-color: #0055ff;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .pagination button {
+    margin: 5px;
+    padding: 5px 10px;
+    border: none;
+    background: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .modal {
+    background: white;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    border-radius: 5px;
+  }
+  
+  .modal input {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 8px;
+  }
+  
+  .save-btn {
+    background-color: #007bff;
+    color: white;
+    padding: 8px;
+    border: none;
+  }
+  
+  .close-btn {
+    background-color: red;
+    color: white;
+    padding: 8px;
+    border: none;
+    margin-left: 5px;
+  }
+  
